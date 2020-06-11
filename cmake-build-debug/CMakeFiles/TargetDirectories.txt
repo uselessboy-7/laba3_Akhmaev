@@ -1,0 +1,5 @@
+C:/lab3_D/cmake-build-debug/CMakeFiles/lab3_clion.dir
+C:/lab3_D/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/lab3_D/cmake-build-debug/CMakeFiles/test.dir
+C:/lab3_D/cmake-build-debug/CMakeFiles/benchmark.dir
+C:/lab3_D/cmake-build-debug/CMakeFiles/edit_cache.dir

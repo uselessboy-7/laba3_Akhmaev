@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/lab3_D/AVLTree.hpp
+utility
+-
+stdexcept
+-
+
+C:/lab3_D/PriorityQueue.hpp
+AVLTree.hpp
+C:/lab3_D/AVLTree.hpp
+
+C:/lab3_D/main.cpp
+iostream
+-
+AVLTree.hpp
+C:/lab3_D/AVLTree.hpp
+PriorityQueue.hpp
+C:/lab3_D/PriorityQueue.hpp
+string
+-
+
